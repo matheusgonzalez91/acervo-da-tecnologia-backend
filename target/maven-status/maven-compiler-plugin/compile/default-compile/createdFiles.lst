@@ -1,0 +1,7 @@
+br\com\acervotecnologia\AcervoDaTecnologiaApplication.class
+br\com\acervotecnologia\controller\AcervoTiController.class
+br\com\acervotecnologia\model\AcervoTiModel.class
+br\com\acervotecnologia\repositories\AcervoTiRepository.class
+br\com\acervotecnologia\dto\AcervoTiResponseDTO.class
+br\com\acervotecnologia\dto\AcervoTiRequestDTO.class
+br\com\acervotecnologia\cors\WebConfig.class
